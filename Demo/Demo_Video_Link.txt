@@ -1,0 +1,10 @@
+Project Demo Video
+
+Title:
+ServiceNow Project | Optimizing User, Group & Role Management with ACL & Flow Designer
+
+YouTube Link:
+https://youtu.be/H-L0OX2JQIo?si=6hxtxRFMjI2dDJ0D
+
+Description:
+This video demonstrates the implementation of User, Group, and Role Management with Role-Based Access Control (RBAC), Access Control Lists (ACLs), and Flow Designer automation in ServiceNow.
